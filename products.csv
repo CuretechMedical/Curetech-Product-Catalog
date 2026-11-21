@@ -1,4 +1,4 @@
-Product ID,Product Name,SKU,Category,Brand,Description,Price AED,Image URL,Noon Product URL,Availability,Featured Product
-1,Apple LED A2 Pro Dental Handpiece (SAMPLE DATA),CT-HAND-001,LED Handpieces,Apple,SAMPLE DATA - LED high-speed handpiece. Replace with your real description.,250,,,In Stock,Yes
-2,Sample Ceramic Bracket Kit (SAMPLE DATA),CT-ORTH-001,Ceramic Brackets,SampleBrand,SAMPLE DATA - price and Noon link intentionally left blank.,,,,In Stock,No
-3,Sample NiTi Rotary File (SAMPLE DATA),CT-ENDO-001,Rotary Files,SampleBrand,SAMPLE DATA - price and Noon link intentionally left blank.,,,,Out of Stock,No
+Product ID	Product Name	SKU	Category	Brand	Description	Price AED	Image URL	Noon Product URL	Availability	Featured Product
+1	Apple A1 Pro Dental High Speed Turbine Handpiece	HND-A1-001	LED Handpieces	Apple	Apple A1 Pro Dental High Speed Turbine Handpiece	150	https://drive.google.com/file/d/1LUFp_dJObq2Np2Dzu2NOBgpfD4pCaWNK/view?usp=sharing		In Stock	Yes
+2	Apple A2 Pro Dental High Speed Turbine Handpiece	HND-A2-002	LED Handpieces	Apple	Apple A2 Pro Dental High Speed Turbine Handpiece	200	https://drive.google.com/file/d/1VDm6ZMDDmkvrM0hKB5X6f9mN3TuigDBE/view?usp=sharing		In Stock	Yes
+3	Sample NiTi Rotary File (SAMPLE DATA)	CT-ENDO-001	Rotary Files	SampleBrand	SAMPLE DATA - price and Noon link intentionally left blank.				Out of Stock	No
