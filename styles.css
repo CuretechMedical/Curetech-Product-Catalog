@@ -1,0 +1,18 @@
+:root{--g:#c9a227;--k:#0d0d0d}*{box-sizing:border-box}body{margin:0;font:16px system-ui,sans-serif;color:#222;background:#fff}
+header{position:sticky;top:0;z-index:5;background:var(--k);padding:10px 14px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.brand{color:#fff;text-decoration:none;display:flex;gap:8px;align-items:center}.brand small{color:var(--g)}
+.logo{background:var(--g);color:var(--k);font-weight:800;padding:4px 7px;border-radius:6px}
+header input{flex:1;min-width:200px;padding:10px;border-radius:8px;border:2px solid var(--g)}
+main{max-width:1100px;margin:auto;padding:14px}.hero{background:var(--k);color:#fff;padding:28px 18px;border-radius:12px;border-bottom:4px solid var(--g)}
+.hero h1{margin:0 0 6px;color:var(--g);font-size:1.5rem}
+.bar{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}select{padding:8px;border:1px solid #bbb;border-radius:8px}
+.chip{padding:6px 12px;border:1px solid var(--g);border-radius:20px;background:#fff;cursor:pointer}.chip.on{background:var(--g)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
+.card{border:1px solid #e5e5e5;border-radius:12px;padding:12px;display:flex;flex-direction:column;gap:6px}
+.card img,.pimg{width:100%;aspect-ratio:1;object-fit:contain;background:#f6f6f6;border-radius:8px}
+.card a.t{color:var(--k);font-weight:700;text-decoration:none}.m{font-size:.8rem;color:#666}.price{font-size:1.2rem;font-weight:800}
+.btn,button{padding:9px 12px;border-radius:8px;border:0;font-weight:700;cursor:pointer;text-decoration:none;text-align:center;background:var(--k);color:var(--g);font-size:.9rem}
+.wa{background:#25d366;color:#fff}.noon{background:#feee00;color:#000}.row{display:flex;gap:6px;flex-wrap:wrap}
+.in{color:#0a7d2c}.out{color:#b00020}#fab{position:fixed;right:14px;bottom:14px;padding:14px 16px;border-radius:30px;z-index:9;text-decoration:none;font-weight:700}
+footer{background:var(--k);color:#fff;text-align:center;padding:22px;margin-top:30px}footer a{color:var(--g)}#qr{display:inline-block;background:#fff;padding:8px;margin-top:10px}
+.pg{display:grid;gap:18px;grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}.warn{background:#fff3cd;padding:8px;border-radius:8px;margin:6px 0}
